@@ -1,9 +1,10 @@
 <HTML>
 <HEAD>
-<TITLE>Fase Inicial diseño web/TITLE>
+<TITLE>Fase Inicial diseÃ±o web/TITLE>
 </HEAD>
 <BODY>
-<P>Hola Mundo</P>
-<P>Diseño web - Juan Alfonso</P>
+<h3>UNAD 2017<h3>
+<h2>Hola Mundo<h2>
+<h2>DiseÃ±o web - Juan Alfonso<h2>
 </BODY>
 </HTML>
