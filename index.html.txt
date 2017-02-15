@@ -1,0 +1,9 @@
+<HTML>
+<HEAD>
+<TITLE>Fase Inicial diseño web/TITLE>
+</HEAD>
+<BODY>
+<P>Hola Mundo</P>
+<P>Diseño web - Juan Alfonso</P>
+</BODY>
+</HTML>
